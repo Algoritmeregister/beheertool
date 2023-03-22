@@ -1,12 +1,12 @@
-# Algoritmeregister beheertool
+# Algoritmeregister Beheertool
 Ontwerp en implementatie van Algoritmeregister beheertool
 
 ## TO DO
 [ ] Productvisie beschikbaar stellen als productpagina
 
-[ ] Functionele specificatie beschikbaar stellen
+[x] Functionele specificatie beschikbaar stellen
 
-[ ] PowerApps ZIP file beschikbaar stellen
+[x] PowerApps ZIP file beschikbaar stellen
 
 [ ] Licentie toevoegen
 
@@ -16,4 +16,4 @@ Ontwerp en implementatie van Algoritmeregister beheertool
 
 [ ] Opschonen Algoritmeregister organisatie
 
-[ ] Uitnodiging Open Samenwerking
+[x] Uitnodiging Open Samenwerking
