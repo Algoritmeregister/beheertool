@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-            body {
-                font-family: Arial;
-            }
-            .wrapper {
-                max-width: 32em;
-                margin: auto;
-            }
-        </style>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <div class="wrapper">
-            <h1>{{ page.title }}</h1>
-            {{ content }}
+            <header>
+                <h1>{{ page.title }}</h1>
+            </header>
+            <main>
+                {{ content }}
+            </main>
+            <footer>
+                
+            </footer>
         </div>
     </body>
 </html>
