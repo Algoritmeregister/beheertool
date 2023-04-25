@@ -23,14 +23,12 @@ De beheertool wordt gebruikt bij:
 
 Principes die we daarbij hanteren:
 
-- we nemen het voortouw in ontwerp en ontwikkeling
-- we volgen nationale standaarden voor registratie
+- we volgen nationale standaarden voor registratie en publicatie
 - deze vullen we waar nodig aan met extra velden voor intern gebruik
-- we werken open, stellen resultaten (ontwerp, code) open ter beschikking van andere overheden, en staan open voor open samenwerking
 
 ## Open Samenwerking
 
-De beheertool is momenteel in [Alpha](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha). Door middel van gebruik in de praktijk wil de Provincie de software iteratief doorontwikkelen en robuuster maken. Graag trekken we hierin samen op met andere publieke organisaties, zowel met organisaties die onze *PowerApps* implementatie mee willen testen en doorontwikkelen, als met organisaties die op een andere *stack* een eigen implementatie maken of hebben gemaakt - om op organisatorisch, procesmatig en op conceptniveau ideeën en ervaringen uit te wisselen.
+We nemen het voortouw in ontwerp en ontwikkeling. De beheertool is momenteel in [Alpha](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha). Door middel van gebruik in de praktijk wil de Provincie de software iteratief doorontwikkelen en robuuster maken. We werken open en stellen resultaten zoals ontwerp en code open ter beschikking. Graag trekken we samen op met andere publieke organisaties, zowel met organisaties die onze *PowerApps* implementatie mee willen testen en doorontwikkelen, als met organisaties die op een andere *stack* een eigen implementatie maken of hebben gemaakt - om op organisatorisch, procesmatig en op conceptniveau ideeën en ervaringen uit te wisselen. Neem daarover dus vooral contact op.
 
 ## Roadmap en Ideeën
 
@@ -38,7 +36,7 @@ Een idee voor de volgende iteratie is ook de inzet van sensoren in projecten en 
 
 Ook werken we met BZK aan het automatisch aanleveren van de algoritmeregistraties naar het centrale algoritmeregister.
 
-Neem contact op voor meer informatie.
+Zie https://github.com/Algoritmeregister/beheertool/issues voor de huidige issues.
 
 ## Contact
 
