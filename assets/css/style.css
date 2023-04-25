@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Didact Gothic";
-    src: url("assets/DidactGothic-Regular.ttf") format("truetype");
+    src: url("../fonts/DidactGothic-Regular.ttf") format("truetype");
 }
 body {
     font-family: "Didact Gothic", Arial;
@@ -21,4 +21,20 @@ h1 {
     font-size: 1.4em;
     font-weight: bold;
     display: inline-block;
+}
+img {
+    max-width: 80%;
+    border: 32px solid white;
+    box-shadow: 0 5px 10px lightgray;
+    margin: auto;
+    display: block;
+}
+img + em {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    max-width: 24em;
+    font-size: 0.8em;
+    color: gray;
 }
