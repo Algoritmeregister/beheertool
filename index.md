@@ -36,7 +36,7 @@ Een idee voor de volgende iteratie is ook de inzet van sensoren in projecten en 
 
 Ook werken we met BZK aan het automatisch aanleveren van de algoritmeregistraties naar het centrale algoritmeregister.
 
-Zie https://github.com/Algoritmeregister/beheertool/issues voor de huidige issues.
+Op de [Github issues pagina](https://github.com/Algoritmeregister/beheertool/issues) vind je de huidige issues.
 
 ## Contact
 
