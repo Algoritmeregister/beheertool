@@ -46,11 +46,11 @@ Voor technische vragen en vragen over de installatie kun je contact opnemen met 
 
 ## Downloads
 
-[Download Funcioneel Ontwerp (.docx)](Functioneel ontwerp Powerapp.docx)
+[Download Funcioneel Ontwerp (.docx)](downloads/v0.1/Functioneel ontwerp Powerapp.docx)
 
-[Download de PowerApps (.zip)](Algoritmeregistratieapp20230322_20230322135953.zip)
+[Download de PowerApps (.zip)](downloads/v0.1/Algoritmeregistratieapp20230322_20230322135953.zip)
 
-[Download de Installatiehandleiding (.docx)](Handleiding Importeren PowerApp Algoritmeregister.docx)
+[Download de Installatiehandleiding (.docx)](downloads/v0.1/Handleiding Importeren PowerApp Algoritmeregister.docx)
 
 ## Licentie
 

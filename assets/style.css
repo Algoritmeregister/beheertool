@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Didact Gothic";
-    src: url("DidactGothic-Regular.ttf") format("truetype");
+    src: url("assets/DidactGothic-Regular.ttf") format("truetype");
 }
 body {
     font-family: "Didact Gothic", Arial;
