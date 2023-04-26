@@ -41,6 +41,9 @@ Principes die we daarbij hanteren:
 ![Screenshot: Algoritmes exporteren als Excel voor aanlevering naar nationaal register](assets/img/Algoritmes%20exporteren.png)
 *Algoritmes exporteren als Excel voor aanlevering naar nationaal register*
 
+![Screenshot: Sensoren beheren voor gebruik in projecten](assets/img/Sensoren.png)
+*Sensoren beheren voor gebruik in projecten*
+
 ## Open Samenwerking
 
 We nemen het voortouw in ontwerp en ontwikkeling. De beheertool is momenteel in [Alpha](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha). Door middel van gebruik in de praktijk wil de Provincie de software iteratief doorontwikkelen en robuuster maken. We werken open en stellen resultaten zoals ontwerp en code open ter beschikking. Graag trekken we samen op met andere publieke organisaties, zowel met organisaties die onze *PowerApps* implementatie mee willen testen en doorontwikkelen, als met organisaties die op een andere *stack* een eigen implementatie maken of hebben gemaakt - om op organisatorisch, procesmatig en op conceptniveau ideeën en ervaringen uit te wisselen. Neem daarover dus vooral contact op.
