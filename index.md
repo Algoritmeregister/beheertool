@@ -60,9 +60,9 @@ Op de [Github issues pagina](https://github.com/Algoritmeregister/beheertool/iss
 
 ## Contact
 
-Wil je de beheertool uittesten, samen verbeteren of op een andere manier aan de slag met een algoritmeregister beheertool? Neem dan contact op met [](mailto:).
+Wil je de beheertool uittesten, samen verbeteren of op een andere manier aan de slag met een algoritmeregister beheertool? Neem dan contact op met [Algoritmeregister Provincie Noord-Brabant](mailto:algoritmeregister@brabant.nl).
 
-Voor technische vragen en vragen over de installatie kun je contact opnemen met het [Datalab van de provincie Noord-Brabant](mailto:Datalab@brabant.nl)
+Voor technische vragen en vragen over de installatie kun je contact opnemen met het [Datalab van de Provincie Noord-Brabant](mailto:Datalab@brabant.nl)
 
 ## Downloads
 
